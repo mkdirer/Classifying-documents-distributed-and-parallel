@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fruits>
+  <fruit>
+    <name>apple</name>
+    <color>Red</color>
+    <quantity>10</quantity>
+  </fruit>
+  <fruit>
+    <name>banana</name>
+    <color>Yellow</color>
+    <quantity>5</quantity>
+  </fruit>
+  <fruit>
+    <name>pineapple</name>
+    <color>Brown</color>
+    <quantity>2</quantity>
+  </fruit>
+</fruits>
